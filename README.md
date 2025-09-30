@@ -1,4 +1,4 @@
-# RawByteDev Portfolio
+# rawbytedev Portfolio
 
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17820892?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/17820892)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawbytedev&show_icons=true&theme=dark)](https://github.com/rawbytedev)  
